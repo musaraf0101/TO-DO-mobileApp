@@ -1,0 +1,6 @@
+- install the project
+    npx create-expo-app@latest App_Name
+- reset the project
+    npm run reset-project
+- run the project
+    npx expo start
